@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Number Format / https://www.notion.so/highereducation/numformat-deb1761515a74f8bb188a85ee200843a
+# Number Format / https://github.com/jasoncomes/Number-Format-Liquid-Filter
 # Converts string into a comma separated number format.
 # {{ number | numformat }}
 
